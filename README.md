@@ -6,6 +6,9 @@ Exception handling is a crucial part of Java programming as it allows developers
 
 In Java, an exception is an event that interrupts the normal flow of program execution. Exceptions can occur due to a variety of reasons such as input errors, resource exhaustion, network failures, and so on. When an exception occurs, the program terminates abruptly unless we handle it properly.
 
+                                                          (or) 
+Exception handling is a mechanism that allows a program to handle unexpected errors or exceptional conditions that occur during its execution.Exception handling is a mechanism that allows a program to handle unexpected errors or exceptional conditions that occur during its execution.
+
 # Exception Handling in Java
 
 Exception handling in Java involves the following steps:
@@ -48,6 +51,8 @@ Exception handling is a critical aspect of Java programming. By following the be
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # throw vs throws
+
+![image](https://github.com/sree-hari55/Exception-Handling/assets/59191028/f8d4dae8-80e6-44ba-874b-08ef6bfca817)
 
 //Java throw example
 void a()
