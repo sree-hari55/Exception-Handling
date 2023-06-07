@@ -43,3 +43,24 @@ Here are some best practices for exception handling in Java that developers can 
 # Conclusion
 
 Exception handling is a critical aspect of Java programming. By following the best practices listed above, developers can write programs that are more robust and maintainable, and handle exceptional events gracefully.
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# throw vs throws
+
+//Java throw example
+void a()
+{
+  throw new ArithmeticException("Incorrect");
+}
+//Java throws example
+void a()throws ArithmeticException
+{
+  //method code
+}
+//Java throw and throws example
+void a()throws ArithmeticException
+{
+  throw new ArithmeticException("Incorrect");
+}
